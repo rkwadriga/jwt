@@ -1,0 +1,31 @@
+{
+    "name": "rkwadriga/jwt",
+    "type": "symfony-bundle",
+    "description": "This bundle provides JWT authentication for your Symfony REST API",
+    "license": "GPL",
+    "version": "1.0.0",
+    "homepage": "https://github.com/rkwadriga/jwt",
+    "minimum-stability": "dev",
+    "authors": {
+        "name": "Dmitry Kushneriov",
+        "email": "remkwadriga2013@gmail.com",
+        "role": "Owner"
+    },
+    "require": {
+        "php": ">=8.1",
+        "ext-openssl": "*",
+        "symfony/orm-pack": "^2.1",
+        "symfony/security-bundle": "5.4.*",
+        "symfony/serializer": "5.4.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Rkwadriga\\JwtBundle\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Rkwadriga\\JwtBundle\\Tests\\": "tests"
+        }
+    }
+}
