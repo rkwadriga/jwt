@@ -2,7 +2,7 @@
     "name": "rkwadriga/jwt",
     "type": "symfony-bundle",
     "description": "This bundle provides JWT authentication for your Symfony REST API",
-    "license": "GPL",
+    "license": "MIT",
     "version": "1.0.0",
     "homepage": "https://github.com/rkwadriga/jwt",
     "minimum-stability": "stable",
