@@ -6,7 +6,7 @@
 
 namespace Rkwadriga\JwtBundle\Enum;
 
-enum AuthenticationType:string
+enum AuthenticationType: string
 {
     case JWT = 'jwt_auth';
     case REFRESH = 'refresh_auth';
