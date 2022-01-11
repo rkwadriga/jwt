@@ -5,7 +5,7 @@ JWT-authentication bundle for Symfony 6.
 
 ### 1. Install the bundle:
 ```bash
-$ composer require rkwadriga/jwt
+$ composer require rkwadriga/jwt:dev-master
 ```
 
 ### 2. Enable the bundle in config/bundles.php:
