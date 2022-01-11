@@ -5,7 +5,7 @@
     "license": "GPL",
     "version": "1.0.0",
     "homepage": "https://github.com/rkwadriga/jwt",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Dmitry Kushneriov",
