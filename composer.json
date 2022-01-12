@@ -18,7 +18,7 @@
         "ext-openssl": "*",
         "symfony/orm-pack": ">=2.1",
         "symfony/security-bundle": ">=6.0",
-        "symfony/serializer": ">=6.0.*"
+        "symfony/serializer": ">=6.0"
     },
     "autoload": {
         "psr-4": {
